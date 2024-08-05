@@ -1,10 +1,10 @@
 import mariadb from 'mariadb';
 
 const pool = mariadb.createPool({
-    host: 'localhost', 
+    host: 'fn01', 
     user: 'root', 
-    password: '',
-    database: 'seu_bd',  
+    password: 'lua133',
+    database: 'celke',  
     connectionLimit: 5
 });
 
