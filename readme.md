@@ -14,7 +14,7 @@ Para garantir que o projeto funcione corretamente, você precisa configurar a UR
    npm install
    ```
 
-2. ** Altere as configurações do seu banco de dados no `/src/config/database.js`: **
+2. **Altere as configurações do seu banco de dados no `/src/config/database.js`:**
     ```
     host: 'seuhost', 
     user: 'seuusuario', 
@@ -22,6 +22,7 @@ Para garantir que o projeto funcione corretamente, você precisa configurar a UR
     database: 'seu_bd',
     
     ```
+    
 3. **Execute o comando `node --watch .\src\index.js`
     Executar o projeto e toda vez que salvar ele ira reexecutar , se não quiser somente deixe o node sem o --watch
 
