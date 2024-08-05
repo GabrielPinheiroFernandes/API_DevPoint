@@ -46,7 +46,8 @@ Requer o id_tarefa na URL e um corpo com os campos descricao e concluido.
 Excluir (Delete): DELETE /tarefas/:id_tarefa
 
 Remove uma tarefa com base no id_tarefa fornecido.
-Observações Finais
+
+## Observações Finais
 Este projeto pode conter alguns erros ou problemas, pois ainda estou em processo de aprendizado sobre várias tecnologias e práticas envolvidas. Agradeço a compreensão e estou aberto a sugestões e contribuições para melhorar o código.
 
 
